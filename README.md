@@ -20,12 +20,3 @@
 **contribute:**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikoala&show_icons=true&theme=dracula)
-
-**project:**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vikoala&repo=koa-inventor&theme=dracula)](https://github.com/vikoala/koa-inventor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vikoala&repo=Vue3-Fiction&theme=dracula)](https://github.com/vikoala/Vue3-Fiction)
-
-
-
-
