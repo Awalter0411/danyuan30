@@ -1,12 +1,11 @@
-### Hi, I'm vikoala 👋
+### Hi, I'm zmlnf 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=vikoala.vikoala)
-
+a web developer
 
 **social media:**  
 
 - [Juejin](https://juejin.cn/user/281914445928957/posts)
-- [Zhihu](https://www.zhihu.com/people/streetworkoutsc)
+- [Zhihu](https://www.zhihu.com/people/vikoala)
 - [Bilibili](https://space.bilibili.com/73748193?spm_id_from=333.1007.0.0)
 
 **skill:**  
@@ -19,4 +18,4 @@
 
 **contribute:**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikoala&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmlnf&show_icons=true)
