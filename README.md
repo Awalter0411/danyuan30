@@ -19,4 +19,4 @@ a web developer
 
 **contribute:**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyuan30&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyuan30&show_icons=true&theme=dark)
